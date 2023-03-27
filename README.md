@@ -1,8 +1,11 @@
 # Shiny_APP_Web_Scraping_Dash
 Um aplicativo feito em Shiny no R onde foi utilizado Web Scraping para realizar uma busca das imagens das bandeiras dos paises presentes na base de dados e utiliza-las em uma tabela dinâmica.
 
+O link para o APP/DASHBOARD: https://hkbragada.shinyapps.io/Shiny_Brands/?_ga=2.38400038.485725936.1679927793-534592504.1679676184
+
 O scrip do APP se encontra em shiny_brands.R, nele temos as manipulações da base de dados, imagens e mapa utilizados.
 A parte de Web Scraping para o download das imagens das bandeiras dos respectivos pasises presentes na base de dados estão em download_flag_imag.R (Devido ao baixo número de exceções, algumas imagens foram baixadas a parte em função dos nomes divergentes e complicações futuras com a base de dados do mapa em .js caso fossem feitas as alterações nos nomes para o download automatico)
+
 
 O link para o APP/DASHBOARD: https://hkbragada.shinyapps.io/Shiny_Brands/?_ga=2.38400038.485725936.1679927793-534592504.1679676184
 
