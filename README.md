@@ -17,16 +17,19 @@ O aplicativo conta do diversas funções interativas e dinâmicas como:
 
 Segue uma sequência de imagens para ilustrar tal funcionalidade:
 
-<img width="488" alt="Captura de tela 2023-03-27 114138" src="https://user-images.githubusercontent.com/80830247/227978212-c067e1e3-af55-41c2-8d1b-5e2616557a93.png">
+Com o mouse sobre a barra é possível ver mais informações
 
-Ao clicar na barra "Asia" por exemplo, o gráfico se altera, agora com os paises do respectivo grupo selecionado
+<img width="556" alt="Captura de tela 2023-03-27 121159" src="https://user-images.githubusercontent.com/80830247/227983926-07194042-20cf-41f0-8019-a63683e9eb50.png">
 
 
-<img width="586" alt="Captura de tela 2023-03-27 114217" src="https://user-images.githubusercontent.com/80830247/227978264-b93eb098-9e7a-406a-bce0-22e1244246b2.png">
+Ao clicar na barra "Europe" por exemplo, o gráfico se altera, agora com os paises do respectivo grupo selecionado
+
+<img width="559" alt="Captura de tela 2023-03-27 121300" src="https://user-images.githubusercontent.com/80830247/227983974-23c05d4b-b703-4192-8bf8-5f64a5576e6e.png">
+
 
 Segue uma imagem do APP:
 
-<img width="1614" alt="Captura de tela 2023-03-27 113503" src="https://user-images.githubusercontent.com/80830247/227978759-74535023-cfd4-4d38-a694-16531ef52cc3.png">
+<img width="1703" alt="Captura de tela 2023-03-27 121139" src="https://user-images.githubusercontent.com/80830247/227984052-b2af770e-e634-45a5-9670-d000ab63c9b1.png">
 
 A base de dados pode ser encontrada em: https://www.kaggle.com/datasets/berkayalan/the-worlds-biggest-companies-2021
 
