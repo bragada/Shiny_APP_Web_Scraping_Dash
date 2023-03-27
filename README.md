@@ -9,6 +9,19 @@ O aplicativo conta do diversas funções interativas e dinâmicas como:
 - Nos gráficos é possível acessar mais informações ao passar o mouse sobre as barras
 - Mapa Interativo e Dinâmico 
 - Gráficos intra-gráficos (ao clicar nas barras é possível acessar um novo gráfico com os elementos do respectivo grupo)
- 
+Segue uma sequência de imagens para ilustrar tal funcionalidade:
+
+<img width="488" alt="Captura de tela 2023-03-27 114138" src="https://user-images.githubusercontent.com/80830247/227978212-c067e1e3-af55-41c2-8d1b-5e2616557a93.png">
+
+Ao clicar na barra "Asia" por exemplo, o gráfico se altera, agora com os paises do respectivo grupo selecionado
+
+
+<img width="586" alt="Captura de tela 2023-03-27 114217" src="https://user-images.githubusercontent.com/80830247/227978264-b93eb098-9e7a-406a-bce0-22e1244246b2.png">
+
+Segue uma imagem do APP:
+
+<img width="1614" alt="Captura de tela 2023-03-27 113503" src="https://user-images.githubusercontent.com/80830247/227978759-74535023-cfd4-4d38-a694-16531ef52cc3.png">
 
 A base de dados pode ser encontrada em: https://www.kaggle.com/datasets/berkayalan/the-worlds-biggest-companies-2021
+
+O link para o APP/DASHBOARD: https://hkbragada.shinyapps.io/Shiny_Brands/?_ga=2.38400038.485725936.1679927793-534592504.1679676184
