@@ -4,7 +4,8 @@ Um aplicativo feito em Shiny no R onde foi utilizado Web Scraping para realizar 
 O link para o APP/DASHBOARD: https://hkbragada.shinyapps.io/Shiny_Brands/?_ga=2.38400038.485725936.1679927793-534592504.1679676184
 
 O scrip do APP se encontra em shiny_brands.R, nele temos as manipulações da base de dados, imagens e mapa utilizados.
-A parte de Web Scraping para o download das imagens das bandeiras dos respectivos pasises presentes na base de dados estão em download_flag_imag.R (Devido ao baixo número de exceções, algumas imagens foram baixadas a parte em função dos nomes divergentes e complicações futuras com a base de dados do mapa em .js caso fossem feitas as alterações nos nomes para o download automatico)
+
+A parte de Web Scraping para o download das imagens das bandeiras dos respectivos pasises presentes na base de dados estão em download_flag_imag.R (Devido ao baixo número de exceções, algumas imagens foram baixadas a parte. A questões ocorreu devido a ocorrência de nomes divergentes e complicações futuras com a base de dados do mapa em .js caso fossem feitas as alterações nos nomes)
 
 
 O aplicativo conta do diversas funções interativas e dinâmicas como:
